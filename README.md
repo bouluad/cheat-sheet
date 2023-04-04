@@ -40,3 +40,19 @@ Types of tests (e.g. unit tests, integration tests)
 Testing framework used
 How to run the tests
 How to interpret test results
+
+## Extra
+
+What programming language(s) is the app written in?
+What frameworks and libraries does the app use?
+What is the current build and deployment process?
+What is the application architecture and how are the components deployed?
+What is the app's scalability requirements?
+What are the app's security requirements?
+What are the app's performance requirements?
+What are the app's monitoring and logging requirements?
+Are there any external dependencies or third-party services that the app relies on?
+
+## Nodejs
+
+
