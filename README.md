@@ -7,6 +7,21 @@ A brief description of the project.
 # Development
 This section provides technical information about the development environment and codebase.
 
+What programming language(s) is the app written in?
+What frameworks and libraries does the app use?
+What is the current build and deployment process?
+What is the application architecture and how are the components deployed?
+What is the current technology stack of the application?
+What are the dependencies of the application?
+Does the application have any third-party integrations? If yes, what are they?
+What is the current infrastructure of the application? Is it monolithic or microservices-based?
+What is the current deployment process of the application?
+What are the testing practices for the application?
+What is the expected traffic and workload on the application?
+What are the security requirements for the application?
+What are the logging and monitoring requirements for the application?
+What is the disaster recovery plan for the application?
+
 ## Technical Questions
 Here are some technical questions to consider for the development environment:
 
